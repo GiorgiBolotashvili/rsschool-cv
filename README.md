@@ -1,1 +1,2 @@
-# https://github.com/GiorgiBolotashvili/rsschool-cv/cv.md
+
+# https://GiorgiBolotashvili.github.io/rsschool-cv/cv
