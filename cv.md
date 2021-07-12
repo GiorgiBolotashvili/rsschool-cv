@@ -3,11 +3,12 @@
 ## Contact info 
 
 Tbilisi, Georgia
+
 Phone: `+995 558 35 11 33`
+
 Email: `Gio_Bolota@yahoo.com`
 
-## PROGRAMMING LANGUAGES AND
-TECHNOLOGIES
+## PROGRAMMING LANGUAGES AND TECHNOLOGIES
 
 C#, HTML, CSS, JavaScript,
 OOP, Windows Forms, Microsoft SQL Server.
