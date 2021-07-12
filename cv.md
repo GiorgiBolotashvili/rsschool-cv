@@ -27,7 +27,9 @@ Certificate of completion has successfully completed the course -Programing in C
 ### SELF EDUCATION
 
 https://codeforces.com/submissions/Bolota
-GiorgiBolotashvili | Codewars
+
+https://www.codewars.com/users/GiorgiBolotashvili
+
 https://www.sololearn.com/Profile/16937124
 
 ## LANGUAGES
